@@ -1,2 +1,2 @@
 # notebooks
-Watson Studio projects 
+Sample Python code for yfinance, matplotlib, and BeautifulSoup.
